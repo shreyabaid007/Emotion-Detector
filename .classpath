@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/opencv-2.4.1.jar"/>
+	<classpathentry kind="src" path="/7"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv-android-arm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv-android-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/videoinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/videoinput-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/javacv-bin/videoinput-windows-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
